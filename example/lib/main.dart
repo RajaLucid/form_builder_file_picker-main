@@ -42,6 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
             children: <Widget>[
               FormBuilderFilePicker(
                 name: 'images',
+                
                 decoration:
                     const InputDecoration(labelText: 'Multi Attachments'),
                 maxFiles: null,

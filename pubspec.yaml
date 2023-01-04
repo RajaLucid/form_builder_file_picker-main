@@ -8,7 +8,10 @@ environment:
 
 dependencies:
   community_material_icon: ^5.9.55
+<<<<<<< HEAD
   document_scanner_flutter: ^0.2.7
+=======
+>>>>>>> upstream/main
   file_picker: ^5.0.1
   flutter:
     sdk: flutter
